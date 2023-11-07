@@ -57,7 +57,7 @@ local a = {
 local b = {
     red = hsl("#dd8888");
     green = hsl("#b3dd88");
-    blue = hsl("#9caee2");
+    blue = hsl("#889ddd");
     yellow = hsl("#d9c68c");
     cyan = hsl("#90d5be");
     magenta = hsl("#9c85e0");
@@ -148,7 +148,7 @@ local theme = lush(function(injected_functions)
 
   Directory  { fg = c.magenta },
   Title  { fg = c.cyan },
-  ErrorMsg  { fg = d.red },
+  ErrorMsg  { fg = c.red },
   ModeMsg  { fg = a.com },
   -- MsgArea  {},
   -- MsgSeparator  {},
