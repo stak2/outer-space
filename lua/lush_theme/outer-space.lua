@@ -69,7 +69,7 @@ local c = {
     blue = hsl("#94a3d1");
     yellow = hsl("#d1b394");
     cyan = hsl("#94c7d1");
-    magenta = hsl("#9494d1");
+    magenta = hsl("#a894d1");
 }
 
 local d = {
