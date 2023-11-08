@@ -10,7 +10,7 @@ local colors = {
     blue = "#889ddd";
     yellow = "#d9c68c";
     cyan = "#90d5be";
-    magenta = "#9c85e0";
+    magenta = "#c188dd";
 }
 
 return {

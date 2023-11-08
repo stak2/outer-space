@@ -7,14 +7,14 @@ cursor_fg     = "#182024"
 selection_bg  = "#434f56"
 selection_fg  = "#d4dadd"
 ansi = [
-  "#2d3539",
-  "#d19494",
-  "#a6c982",
-  "#d1b394",
-  "#94a3d1",
-  "#9494d1",
-  "#94c7d1",
-  "#8d9da5"
+  "#2d3539", # black
+  "#d19494", # red
+  "#a6c982", # green
+  "#d1b394", # yellow
+  "#94a3d1", # blue
+  "#bd94d1", # magenta
+  "#94c7d1", # cyan
+  "#8d9da5", # white
 ]
 brights = [
   "#70868f",
@@ -22,7 +22,7 @@ brights = [
   "#b3dd88",
   "#d9c68c",
   "#889ddd",
-  "#9c85e0",
+  "#c188dd",
   "#90d5be",
   "#d4dadd"
 ]
