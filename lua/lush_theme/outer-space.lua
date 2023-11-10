@@ -60,7 +60,7 @@ local b = {
     blue = hsl("#889ddd");
     yellow = hsl("#d9c68c");
     cyan = hsl("#90d5be");
-    magenta = hsl("#c188dd");
+    magenta = hsl("#b388dd");
 }
 
 local c = {
@@ -69,7 +69,7 @@ local c = {
     blue = hsl("#94a3d1");
     yellow = hsl("#d1b394");
     cyan = hsl("#94c7d1");
-    magenta = hsl("#bd94d1");
+    magenta = hsl("#b394d1");
 }
 
 local d = {
@@ -78,7 +78,7 @@ local d = {
     blue = hsl("#98a5cd");
     yellow = hsl("#c9b39c");
     cyan = hsl("#9cc9c9");
-    magenta = hsl("#ba9cc9");
+    magenta = hsl("#b29cc9");
 }
 
 -- LSP/Linters mistakenly show `undefined global` errors in the spec, they may
